@@ -2,7 +2,7 @@
 ## 安装Magisk
 [参考这个](https://sspai.com/post/76276)
 ## 准备证书
-[参考这个](https://sorayama.me/blog/2020-08-12-pixel3%E7%94%A8charles%E6%8A%93%E5%8C%85%E4%BB%A5%E5%8F%8Aroot/)
+[参考这个](https://sorayama.me/blog/2020-08-12-pixel3%E7%94%A8charles%E6%8A%93%E5%8C%85%E4%BB%A5%E5%8F%8Aroot/)    
  Charles导出证书
 Charles -> Help -> SSL Proxying -> save Charles root certificate
 ## 转换证书
